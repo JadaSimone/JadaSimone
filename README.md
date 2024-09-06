@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JadaSimone
+- 👋 Hi, I’m @Jadaslogan
 - 👀 I’m interested in collaborating on open source projects in order to increase my coding aptitude, as well as my professional network.
-- 🌱 I’m currently learning Python, Javascript, NodeJS, HTML
+- 🌱 I’m currently learning Linux Commands, Wireshark, Attack Analysis, and SIEM tools.
 - 💞️ I’m looking to collaborate on projects that will enable AI, machine Learning, and AR/VR innovations to spring to life.
-- 📫 How to reach me: email sifford.jada@gmail.com
+- 📫 How to reach me: email jsiffordlogan@student.umgc.edu
 
 <!---
 JadaSimone/JadaSimone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
