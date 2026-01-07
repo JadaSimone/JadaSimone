@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JadaSimone
 - 👀 I’m interested in collaborating on open source projects in order to increase my coding aptitude, as well as my professional network.
-- 🌱 I’m currently learning Linux Commands, Wireshark, Attack Analysis, and SIEM tools.
+- 🌱 I’m currently learning AI for DATA SCIENCE as a Codecamp Alumni.
 - 💞️ I’m looking to collaborate on projects that will enable AI, machine Learning, and AR/VR innovations to spring to life.
-- 📫 How to reach me: email jsiffordlogan@student.umgc.edu
+- 📫 How to reach me: email sifford.jada@gmail.com
 
 <!---
 JadaSimone/JadaSimone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
